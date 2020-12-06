@@ -1,0 +1,89 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 03 Dec 2020 10:32:48 at https://smartdemowp.com/dinso/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://smartdemowp.com/dinso/ -O1 "C:\Users\AnkitaSingh\Desktop\dinso1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:33:45	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): smartdemowp.com/dinso/wp-content/plugins/color-sds-picker/css/color/theme-color.css?ver=1606971776
+10:40:52	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://smartdemowp.com/dinso/wp-content/plugins/color-sds-picker/css/color/theme-color.css?ver=1606943614
+10:42:53	Warning: 	Moved Permanently for smartdemowp.com/dinso/?p=282
+10:42:53	Warning: 	File has moved from smartdemowp.com/dinso/?p=282 to http://smartdemowp.com/dinso/contact/
+10:42:53	Warning: 	Retry after error -4 (No data (connection closed)) at link smartdemowp.com/dinso/wp-content/cache/min/1/dinso/wp-content/plugins/color-sds-picker/js/switcher-9a930a47a5d9661f72b67f5045e55d55.js (from smartdemowp.com/dinso/contact/)
+10:43:25	Warning: 	Moved Permanently for smartdemowp.com/dinso/?p=190
+10:43:25	Warning: 	File has moved from smartdemowp.com/dinso/?p=190 to http://smartdemowp.com/dinso/home-2/
+10:43:25	Warning: 	Retry after error -4 (No data (connection closed)) at link smartdemowp.com/dinso/wp-content/uploads/2020/03/about-img-3.jpg (from smartdemowp.com/dinso/home-2/?header_type=2)
+10:43:57	Warning: 	Moved Permanently for smartdemowp.com/dinso/?p=736
+10:43:57	Warning: 	File has moved from smartdemowp.com/dinso/?p=736 to http://smartdemowp.com/dinso/home-3/
+10:43:57	Warning: 	Retry after error -4 (No data (connection closed)) at link smartdemowp.com/dinso/wp-content/uploads/2020/03/room-4.jpg (from smartdemowp.com/dinso/home-3/?skin_color=blue&&header_type=3)
+10:44:05	Warning: 	Retry after error -4 (No data (connection closed)) at link smartdemowp.com/dinso/wp-content/uploads/2020/03/shutterstock_350609716-e1584255478462-570x323.jpg (from smartdemowp.com/dinso/home-3/?skin_color=blue&&header_type=3)
+10:44:07	Warning: 	Retry after error -4 (No data (connection closed)) at link smartdemowp.com/dinso/wp-content/themes/dinso/assets/css/style-2.css?ver=1606971786 (from smartdemowp.com/dinso/home-4/?skin_color=blue&&header_type=3)
+10:44:12	Warning: 	Moved Permanently for smartdemowp.com/dinso/?p=591
+10:44:12	Warning: 	File has moved from smartdemowp.com/dinso/?p=591 to http://smartdemowp.com/dinso/home-4/
+10:44:12	Error: 	"Not Found" (404) at link smartdemowp.com/dinso/home-4/news-detail.html (from smartdemowp.com/dinso/home-4/?skin_color=blue&&header_type=3)
+10:44:23	Warning: 	Moved Permanently for smartdemowp.com/dinso/?p=621
+10:44:23	Warning: 	File has moved from smartdemowp.com/dinso/?p=621 to http://smartdemowp.com/dinso/home-5/
+10:44:23	Warning: 	Retry after error -4 (No data (connection closed)) at link smartdemowp.com/dinso/wp-content/themes/dinso/assets/css/color.css?ver=1606971799 (from smartdemowp.com/dinso/home-6/?skin_color=green&&header_type=4)
+10:44:27	Warning: 	Moved Permanently for smartdemowp.com/dinso/?p=662
+10:44:27	Warning: 	File has moved from smartdemowp.com/dinso/?p=662 to http://smartdemowp.com/dinso/home-6/
+10:44:29	Warning: 	Moved Permanently for smartdemowp.com/dinso/?p=682
+10:44:29	Warning: 	File has moved from smartdemowp.com/dinso/?p=682 to http://smartdemowp.com/dinso/home-7/
+10:44:29	Warning: 	Moved Permanently for https://smartdemowp.com/dinso/?p=216
+10:44:29	Warning: 	File has moved from https://smartdemowp.com/dinso/?p=216 to https://smartdemowp.com/dinso/about-us/
+10:44:29	Warning: 	Moved Permanently for https://smartdemowp.com/dinso/?p=238
+10:44:29	Warning: 	File has moved from https://smartdemowp.com/dinso/?p=238 to https://smartdemowp.com/dinso/about-property/
+10:44:30	Warning: 	Moved Permanently for https://smartdemowp.com/dinso/?p=251
+10:44:30	Warning: 	File has moved from https://smartdemowp.com/dinso/?p=251 to https://smartdemowp.com/dinso/team/
+10:44:30	Warning: 	Moved Permanently for https://smartdemowp.com/dinso/?p=257
+10:44:30	Warning: 	File has moved from https://smartdemowp.com/dinso/?p=257 to https://smartdemowp.com/dinso/gallery/
+10:44:30	Warning: 	Moved Permanently for https://smartdemowp.com/dinso/?p=274
+10:44:30	Warning: 	File has moved from https://smartdemowp.com/dinso/?p=274 to https://smartdemowp.com/dinso/apartments/
+10:44:32	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://smartdemowp.com/dinso/wp-content/plugins/color-sds-picker/css/color/theme-color.css?ver=1606959034
+10:44:54	Warning: 	Moved Permanently for https://smartdemowp.com/dinso/?p=384
+10:44:54	Warning: 	File has moved from https://smartdemowp.com/dinso/?p=384 to https://smartdemowp.com/dinso/apartments/one-room-apartment-3/
+10:44:55	Warning: 	Moved Permanently for https://smartdemowp.com/dinso/?p=325
+10:44:55	Warning: 	File has moved from https://smartdemowp.com/dinso/?p=325 to https://smartdemowp.com/dinso/many-important-brands-have-given-us-their-trust-1/
+10:44:55	Error: 	"Method Not Allowed" (405) at link https://smartdemowp.com/dinso/xmlrpc.php (from https://smartdemowp.com/dinso/many-important-brands-have-given-us-their-trust-1/)
+10:45:24	Warning: 	Moved Permanently for https://smartdemowp.com/dinso/?p=368
+10:45:24	Warning: 	File has moved from https://smartdemowp.com/dinso/?p=368 to https://smartdemowp.com/dinso/many-important-brands-have-given-us-their-trust-6/
+10:45:27	Warning: 	Moved Permanently for https://smartdemowp.com/dinso/?p=366
+10:45:27	Warning: 	File has moved from https://smartdemowp.com/dinso/?p=366 to https://smartdemowp.com/dinso/many-important-brands-have-given-us-their-trust-5/
+10:45:30	Warning: 	Retry after error -4 (No data (connection closed)) at link smartdemowp.com/dinso/wp-content/themes/dinso/assets/fonts/fa-regular-400.eot (from smartdemowp.com/dinso/wp-content/cache/min/1/b24d4d02de9a582057420f0ae84dbdc5.css)
+10:45:30	Warning: 	Retry after error -4 (No data (connection closed)) at link smartdemowp.com/dinso/wp-content/themes/dinso/assets/fonts/fa-solid-900.ttf (from smartdemowp.com/dinso/wp-content/cache/min/1/b24d4d02de9a582057420f0ae84dbdc5.css)
+10:45:31	Warning: 	Retry after error -4 (No data (connection closed)) at link smartdemowp.com/dinso/wp-content/themes/dinso/assets/fonts/Flaticon.eot? (from smartdemowp.com/dinso/wp-content/cache/min/1/b24d4d02de9a582057420f0ae84dbdc5.css)
+10:45:31	Warning: 	Warning: store application/octet-stream without scan: C:/Users/AnkitaSingh/Desktop/dinso1/smartdemowp.com/dinso/wp-content/themes/dinso/assets/fonts/Flaticon.svg
+10:45:31	Error: 	"Not Found" (404) at link smartdemowp.com/dinso/wp-content/themes/dinso/assets/css/owl.video.play.png (from smartdemowp.com/dinso/wp-content/cache/min/1/b24d4d02de9a582057420f0ae84dbdc5.css)
+10:45:31	Error: 	"Not Found" (404) at link smartdemowp.com/dinso/wp-content/themes/dinso/assets/css/mCSB_buttons.html (from smartdemowp.com/dinso/wp-content/cache/min/1/b24d4d02de9a582057420f0ae84dbdc5.css)
+10:45:32	Warning: 	Retry after error -4 (No data (connection closed)) at link smartdemowp.com/dinso/wp-content/themes/dinso/assets/css/images/ui-icons_777620_256x240.png (from smartdemowp.com/dinso/wp-content/themes/dinso/assets/css/jquery-ui.css?ver=1)
+10:45:32	Error: 	"Not Found" (404) at link smartdemowp.com/dinso/wp-content/themes/dinso/assets/css/images/ui-icons_cc0000_256x240.png (from smartdemowp.com/dinso/wp-content/themes/dinso/assets/css/jquery-ui.css?ver=1)
+10:45:32	Error: 	"Not Found" (404) at link smartdemowp.com/dinso/wp-content/themes/dinso/assets/images/icons/icon-select.png (from smartdemowp.com/dinso/wp-content/themes/dinso/assets/css/style-2.css?ver=1606971783)
+10:45:32	Error: 	"Not Found" (404) at link smartdemowp.com/dinso/wp-content/themes/dinso/assets/images-2/resource/curve-image.png (from smartdemowp.com/dinso/wp-content/themes/dinso/assets/css/style-2.css?ver=1606971783)
+10:45:32	Warning: 	Retry after error -4 (No data (connection closed)) at link smartdemowp.com/dinso/wp-content/plugins/dinso-core/dinso-addons/fonts/Flaticon.eot? (from smartdemowp.com/dinso/wp-content/plugins/dinso-core/dinso-addons/icon/style.css?ver=5.9.0)
+10:45:35	Warning: 	Warning: store application/octet-stream without scan: C:/Users/AnkitaSingh/Desktop/dinso1/smartdemowp.com/dinso/wp-content/plugins/dinso-core/dinso-addons/fonts/Flaticon.svg
+10:45:35	Warning: 	Moved Permanently for smartdemowp.com/dinso/?p=323
+10:45:35	Warning: 	File has moved from smartdemowp.com/dinso/?p=323 to http://smartdemowp.com/dinso/many-important-brands-have-given-us-their-trust/
+10:45:36	Warning: 	Moved Permanently for smartdemowp.com/dinso/?p=336
+10:45:36	Warning: 	File has moved from smartdemowp.com/dinso/?p=336 to http://smartdemowp.com/dinso/many-important-brands-have-given-us-their-trust-3/
+10:45:36	Warning: 	Moved Permanently for smartdemowp.com/dinso/?p=364
+10:45:36	Warning: 	File has moved from smartdemowp.com/dinso/?p=364 to http://smartdemowp.com/dinso/many-important-brands-have-given-us-their-trust-4/
+10:45:37	Warning: 	Moved Permanently for https://smartdemowp.com/dinso/?p=382
+10:45:37	Warning: 	File has moved from https://smartdemowp.com/dinso/?p=382 to https://smartdemowp.com/dinso/apartments/sea-view-apartment-2/
+10:45:38	Warning: 	Moved Permanently for https://smartdemowp.com/dinso/?p=380
+10:45:38	Warning: 	File has moved from https://smartdemowp.com/dinso/?p=380 to https://smartdemowp.com/dinso/apartments/deluxe-apartment-2/
+10:45:38	Warning: 	Moved Permanently for https://smartdemowp.com/dinso/?p=378
+10:45:38	Warning: 	File has moved from https://smartdemowp.com/dinso/?p=378 to https://smartdemowp.com/dinso/apartments/one-room-apartment-2/
+10:45:38	Warning: 	Moved Permanently for https://smartdemowp.com/dinso/?p=376
+10:45:38	Warning: 	File has moved from https://smartdemowp.com/dinso/?p=376 to https://smartdemowp.com/dinso/apartments/luxury-apartment-2/
+10:45:39	Warning: 	Moved Permanently for https://smartdemowp.com/dinso/?p=272
+10:45:39	Warning: 	File has moved from https://smartdemowp.com/dinso/?p=272 to https://smartdemowp.com/dinso/apartments/sea-view-apartment/
+10:45:39	Warning: 	Moved Permanently for https://smartdemowp.com/dinso/?p=270
+10:45:39	Warning: 	File has moved from https://smartdemowp.com/dinso/?p=270 to https://smartdemowp.com/dinso/apartments/deluxe-apartment/
+10:45:39	Warning: 	Moved Permanently for https://smartdemowp.com/dinso/?p=268
+10:45:39	Warning: 	File has moved from https://smartdemowp.com/dinso/?p=268 to https://smartdemowp.com/dinso/apartments/one-room-apartment/
+10:45:40	Warning: 	Moved Permanently for https://smartdemowp.com/dinso/?p=266
+10:45:40	Warning: 	File has moved from https://smartdemowp.com/dinso/?p=266 to https://smartdemowp.com/dinso/apartments/luxury-apartment/
+10:45:46	Error: 	"Not Found" (404) at link smartdemowp.com/dinso/wp-content/themes/dinso/assets/css/images/ui-icons_777620_256x240.png (from smartdemowp.com/dinso/wp-content/themes/dinso/assets/css/jquery-ui.css?ver=1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 minutes 59 seconds : 696 links scanned, 648 files written (66780113 bytes overall) [28986935 bytes received at 37210 bytes/sec], 46358875 bytes transferred using HTTP compression in 454 files, ratio 17%, 8.8 requests per connection
+(8 errors, 70 warnings, 0 messages)

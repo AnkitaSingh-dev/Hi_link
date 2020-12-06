@@ -1,0 +1,2 @@
+(function($){var templateUrl=color_ajax_object.site_url;function swithcerMenu(){if($('.switch_menu').length){$('.switch_btn button').on('click',function(){$('.switch_menu').toggle(500)});$('#styleOptions').styleSwitcher({hasPreview:!0,fullPath:`${templateUrl}/wp-content/plugins/color-sds-picker/css/color/`,cookie:{expires:30,isManagingLoad:!0}})}}
+swithcerMenu()})(jQuery)
